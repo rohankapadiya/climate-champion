@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/climate-champion/static/css/main.10b0cd89.css",
+    "main.js": "/climate-champion/static/js/main.2a7dfcf3.js",
+    "static/media/background.jpg": "/climate-champion/static/media/background.deb99dff5c9839e9d7f5.jpg",
+    "index.html": "/climate-champion/index.html",
+    "main.10b0cd89.css.map": "/climate-champion/static/css/main.10b0cd89.css.map",
+    "main.2a7dfcf3.js.map": "/climate-champion/static/js/main.2a7dfcf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b0cd89.css",
+    "static/js/main.2a7dfcf3.js"
+  ]
+}
